@@ -30,8 +30,14 @@ I created this project to practice how to structure a webpage properly and to un
 ---
 
 ## Screenshot
+<img width="1919" height="819" alt="Screenshot 2025-07-26 150734" src="https://github.com/user-attachments/assets/2a030516-1bd8-48ed-a458-50cdda8649bb" />
+<img width="1917" height="819" alt="Screenshot 2025-07-26 150752" src="https://github.com/user-attachments/assets/eebfdf70-a17f-4acf-ae13-a9a26af06466" />
+<img width="1891" height="819" alt="Screenshot 2025-07-26 150811" src="https://github.com/user-attachments/assets/d532538f-1478-4b26-8e01-b25b754785f0" />
+<img width="1914" height="800" alt="Screenshot 2025-07-26 150837" src="https://github.com/user-attachments/assets/27c509b7-241c-4ee1-afdd-da571831d6fb" />
 
-![Netflix Homepage](c10a0f60-fbc6-46cf-b3c1-44704a864caf.png)
+
+
+
 
 ### ❓ FAQ Section
 ![Netflix FAQ Section](6f97d82a-bb0a-41d1-82cd-d206e2131218.png)
