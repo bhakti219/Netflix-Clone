@@ -37,12 +37,6 @@ I created this project to practice how to structure a webpage properly and to un
 
 
 
-
-
-### ❓ FAQ Section
-![Netflix FAQ Section](6f97d82a-bb0a-41d1-82cd-d206e2131218.png)
-
-
 ---
 
 ## Note
